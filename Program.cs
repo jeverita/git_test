@@ -6,8 +6,9 @@ namespace git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.Writeline("Yes!");
+            Console.WriteLine("Hello Word!");
+            Console.WriteLine("Yes!");
+            
         }
     }
 }
